@@ -15,5 +15,5 @@ Project Files:
 - Mental Health Dataset.csv.zip (inital dataset from the Kaggle link)
 - mental_health_cleaned.csv.zip (cleaned dataset)
 - mental-health-project.ipynb (ipynb with data cleaning, analysis, and visualizations)
-- one_page_summ.txt (one page summary of project)
+- one_page_summ.pdf (one page summary of project)
 - yash_patel_mh_pres.pptx (slideshow to present project findings)
